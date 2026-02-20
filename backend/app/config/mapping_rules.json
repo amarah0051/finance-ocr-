@@ -1,0 +1,35 @@
+{
+  "sheet_name": "QuoteExportResults",
+  "header_row": 4,
+  "columns": {
+    "Internal ID": "internal_id",
+    "Title": "title",
+    "Currency": "currency",
+    "Date": "date",
+    "Reseller": "reseller",
+    "ResellerContact": "reseller_contact",
+    "Expires": "expires",
+    "ExpectedClose": "expected_close",
+    "EndUser": "end_user",
+    "BusinessUnit": "business_unit",
+    "Item": "item",
+    "Quantity": "quantity",
+    "Salesprice": "sales_price",
+    "Salesdiscount": "sales_discount_formula",
+    "Purchaseprice": "purchase_price",
+    "PurchaseDiscount": "purchase_discount",
+    "Location": "location",
+    "ContractStart": "contract_start",
+    "ContractEnd": "contract_end",
+    "Serial#Supported": "serial_supported",
+    "Rebate": "rebate",
+    "Opportunity": "opportunity"
+  },
+  "constants": {
+    "exchange_rate_cell": "P1",
+    "margin_cell": "P2",
+    "business_unit_default": "Spain"
+  },
+  "date_format": "%d/%m/%Y",
+  "strict": true
+}
